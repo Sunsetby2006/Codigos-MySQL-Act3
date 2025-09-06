@@ -1,2 +1,3 @@
 # Codigos-MySQL-Act3
-Activiedad 3 realizada por Omar Guevara Y Diego Medellin
+Actividad 3 realizada por Omar Guevara Y Diego Medellin
+05/09/2025
